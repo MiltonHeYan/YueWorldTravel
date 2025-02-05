@@ -1,0 +1,46 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Our Services",
+    "about": "About Us"
+  },
+  "hero": {
+    "title": "Focus on Business Inspection, Connect Global Opportunities",
+    "subtitle": "A Professional Travel Agency Specializing in Business Inspection Tours",
+    "features": {
+      "inspection": {
+        "title": "Professional Inspection",
+        "desc": "Customized Business Inspection Routes"
+      },
+      "resources": {
+        "title": "Resource Connection",
+        "desc": "Global Premium Business Resources"
+      },
+      "communication": {
+        "title": "In-depth Communication",
+        "desc": "Face-to-face with Industry Experts"
+      }
+    },
+    "cta": "Book Now"
+  },
+  "services": {
+    "hotel": {
+      "title": "Hotel Services",
+      "subtitle": "Global Hyatt Hotel Booking",
+      "desc": "We work closely with Hyatt Hotels Corporation worldwide to provide booking services for all Hyatt brands. Whether for business trips or leisure vacations, we can find the most suitable accommodation for you to enjoy Hyatt's high-quality service and comfortable experience."
+    },
+    "custom": {
+      "title": "Custom Services",
+      "subtitle": "Domestic Custom Tour Services",
+      "desc": "Our private high-end custom travel service focuses on meeting your personalized needs. Our professional team will tailor a unique travel plan based on your interests and budget. Whether exploring remote cultural relics or enjoying luxury island vacations, we will ensure your journey is full of surprises and pleasure."
+    },
+    "entry": {
+      "title": "Entry Services",
+      "subtitle": "Inbound Custom Tour Services",
+      "desc": "We understand the complexity of inbound travel and provide comprehensive inbound travel services, including visa consulting, itinerary planning, and local transportation arrangements. Our goal is to make your inbound journey relaxed and enjoyable, allowing you to focus on experiencing the culture and scenery of your destination."
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Yueworld Travel All Rights Reserved"
+  }
+} 
